@@ -26,7 +26,7 @@
     <description>Maven archetype for a Sling Slingstart application</description>
 
     <scm>
-        <connection>scm:git:https://gitbox.apache.org/repos/asf/sling-slingstart-archetype.git</conncetion>
+        <connection>scm:git:https://gitbox.apache.org/repos/asf/sling-slingstart-archetype.git</connection>
         <developerConnection>scm:git:https://gitbox.apache.org/repos/asf/sling-slingstart-archetype.git</developerConnection>
         <url>https://gitbox.apache.org/repos/asf?p=sling-slingstart-archetype.git</url>
     </scm>
