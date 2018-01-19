@@ -20,7 +20,7 @@
         <version>5</version>
     </parent>
     <artifactId>sling-slingstart-archetype</artifactId>
-    <version>1.0.5-SNAPSHOT</version>
+    <version>1.0.6</version>
     <packaging>maven-archetype</packaging>
     <name>Apache Sling Slingstart Archetype</name>
     <description>Maven archetype for a Sling Slingstart application</description>
@@ -29,7 +29,7 @@
         <connection>scm:git:https://gitbox.apache.org/repos/asf/sling-slingstart-archetype.git</connection>
         <developerConnection>scm:git:https://gitbox.apache.org/repos/asf/sling-slingstart-archetype.git</developerConnection>
         <url>https://gitbox.apache.org/repos/asf?p=sling-slingstart-archetype.git</url>
-      <tag>HEAD</tag>
+      <tag>sling-slingstart-archetype-1.0.6</tag>
   </scm>
 
     <build>
