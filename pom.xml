@@ -28,7 +28,7 @@
     <scm>
         <connection>scm:git:https://gitbox.apache.org/repos/asf/sling-slingstart-archetype.git</connection>
         <developerConnection>scm:git:https://gitbox.apache.org/repos/asf/sling-slingstart-archetype.git</developerConnection>
-        <url>https://gitbox.apache.org/repos/asf?p=sling-slingstart-archetype.git</url>
+        <url>https://github.com/apache/sling-slingstart-archetype.git</url>
       <tag>HEAD</tag>
   </scm>
 
